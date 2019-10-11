@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e93df645-2b89-40c6-a852-905794006016" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/NTT.py" beforeDir="false" afterPath="$PROJECT_DIR$/NTT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binary_exponentiation.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary_exponentiation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binary_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binary_trie.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary_trie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centroid_decomp.py" beforeDir="false" afterPath="$PROJECT_DIR$/centroid_decomp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compressed_trie.py" beforeDir="false" afterPath="$PROJECT_DIR$/compressed_trie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dijkstra.py" beforeDir="false" afterPath="$PROJECT_DIR$/dijkstra.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/disjoint_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/disjoint_set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kadane.py" beforeDir="false" afterPath="$PROJECT_DIR$/kadane.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/least_common_ancestor.py" beforeDir="false" afterPath="$PROJECT_DIR$/least_common_ancestor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/max_flow.py" beforeDir="false" afterPath="$PROJECT_DIR$/max_flow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merge_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/merge_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/palindromic_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/palindromic_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prime_factorization.py" beforeDir="false" afterPath="$PROJECT_DIR$/prime_factorization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strongly_connected_components.py" beforeDir="false" afterPath="$PROJECT_DIR$/strongly_connected_components.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suffix_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/suffix_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topological_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/topological_sort.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1S2NC4Xy6LR2IfJ6pUJTCWKwYNH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e93df645-2b89-40c6-a852-905794006016" name="Default Changelist" comment="" />
+      <created>1570757599519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570757599519</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

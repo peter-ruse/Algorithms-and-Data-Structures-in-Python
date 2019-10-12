@@ -73,7 +73,7 @@ if __name__ == '__main__':
     deg = 50000
     p1 = [randrange(1, 100) for _ in range(deg + 1)]
     p2 = [randrange(1, 100) for _ in range(deg + 1)]
-    n = 1<<18
+    n = 1 << 18
     w = [cmath.rect(1, 2 * pi * k / n) for k in range(n)] # precompute roots of unity
 
     t0 = clock()
